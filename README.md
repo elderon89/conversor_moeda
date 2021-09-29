@@ -1,4 +1,7 @@
-# conversor-moedas
+# Conversor de Moeda USD-BRL (USD-BRL Converter)
+
+- ENG: Simple converter from US currency USD to Brazilian real BRL.
+- PT-BR: Simples conversor da moeda americana USD para o real brasileiro BRL.
 
 ## Project setup
 ```
